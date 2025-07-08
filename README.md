@@ -8,6 +8,9 @@
 AI Fitness Assistant is a sleek, web-based application that delivers personalized **workouts**, **meal suggestions**, and **fitness advice** using intelligent APIs and OpenAI's GPT-4o mini.
 
 ---
+## 🟢 Live Demo
+
+Try it now: [https://fit-bot-pro.vercel.app/](https://fit-bot-pro.vercel.app/)
 
 ## 🚀 Features
 
